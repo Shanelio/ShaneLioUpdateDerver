@@ -1,2 +1,2 @@
-add character/sonic/chr_sonic@boost_loop.anm.pxd
+add character/sonic.pac
 add mod.ini
